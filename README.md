@@ -6,7 +6,7 @@ Mango is an open-source comprehensive trading card platform that combines comput
 
 The Mango platform consists of three main components:
 
-### [mango-client](https://github.com/yourusername/mango-client)
+### [mango-client](https://github.com/riley-livingston/mango-client)
 A sophisticated web application for collectors that provides:
 - Custom collection creation and management
 - Granular card filtering and organization
@@ -15,7 +15,7 @@ A sophisticated web application for collectors that provides:
 - Integration with vision pipeline for card identification
 - User-defined collection categories and tracking parameters
 
-### [mango-metadata-api](https://github.com/yourusername/mango-metadata-api)
+### [mango-metadata-api](https://github.com/riley-livingston/mango-metadata-api)
 Backend service built with Node.js that manages and serves trading card metadata. This service provides:
 - RESTful API for card metadata queries
 - Database management for card information
@@ -24,7 +24,7 @@ Backend service built with Node.js that manages and serves trading card metadata
 - User collection data management
 - Price history tracking
 
-### [mango-vision-pipeline](https://github.com/yourusername/mango-vision-pipeline)
+### [mango-vision-pipeline](https://github.com/riley-livingston/mango-vision-pipeline)
 Containerized computer vision pipeline that combines multiple models for card analysis:
 - MMDet-based object detection for card identification
 - Facebook's Segment Anything Model (SAM) for precise card segmentation
