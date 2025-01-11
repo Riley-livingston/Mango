@@ -78,7 +78,7 @@ This project is licensed under [Your chosen license] - see the [LICENSE](LICENSE
 
 ## Contact
 
-- GitHub: [@yourusername](https://github.com/riley-livingston)
+- GitHub: [@riley-livingston](https://github.com/riley-livingston)
 - Project Link: https://github.com/riley-livingston/mango
 
 ## Acknowledgments
