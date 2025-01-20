@@ -26,7 +26,7 @@ Backend service built with Node.js that manages and serves trading card metadata
 
 ### [mango-vision-pipeline](https://github.com/riley-livingston/mango-vision-pipeline)
 Containerized computer vision pipeline that combines multiple models for card analysis:
-- MMDet-based object detection for card identification
+- MMDet-based object detection for detecting card objects in images
 - Facebook's Segment Anything Model (SAM) for precise card segmentation
 - Custom CNN for visual similarity search
 - Docker-based deployment for easy scaling
