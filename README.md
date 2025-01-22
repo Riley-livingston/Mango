@@ -86,7 +86,7 @@ We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) f
 
 ## License
 
-This project is licensed under [MIT] - see the [LICENSE](LICENSE) file for details.
+This project is licensed under MIT - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
