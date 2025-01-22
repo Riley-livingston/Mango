@@ -6,6 +6,8 @@ Mango is an open-source comprehensive trading card platform that combines comput
 
 The Mango platform consists of three main components:
 
+
+
 ### [mango-client](https://github.com/riley-livingston/mango-client)
 A sophisticated web application for collectors that provides:
 - Custom collection creation and management
@@ -30,6 +32,15 @@ Containerized computer vision pipeline that combines multiple models for card an
 - Facebook's Segment Anything Model (SAM) for precise card segmentation
 - Custom CNN for visual similarity search
 - Docker-based deployment for easy scaling
+
+### [mango-visual-search-training-eval-pipeline](https://github.com/riley-livingston/mango-visual-search-training-eval-pipeline)
+Training and evaluation pipeline for the visual search component:
+- Custom ResNet-based model training for card similarity
+- Vector embedding generation for ground truth images
+- Comprehensive model evaluation across different card types
+- 3D visualization tools for embedding analysis
+- Modular pipeline design for easy experimentation
+- Automated evaluation across multiple test sets (normal, holo, full-art)
 
 ## System Flow
 
@@ -63,6 +74,7 @@ Containerized computer vision pipeline that combines multiple models for card an
 ```bash
 git clone https://github.com/riley-livingston/mango-client
 git clone https://github.com/riley-livingston/mango-metadata-api
+git clone https://github.com/riley-livingston/mango-vision-pipeline
 git clone https://github.com/riley-livingston/mango-vision-pipeline
 ```
 
