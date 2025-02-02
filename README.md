@@ -2,7 +2,7 @@
 
 Mango is an open-source comprehensive trading card platform that combines computer vision analysis, metadata management, and collection tracking capabilities to provide a complete solution for card collectors and investors.
 
-[example- Artiflect](https://www.artiflect.app)
+[example - ArtiflectAI](https://www.artiflect.app)
 
 ## System Architecture
 
